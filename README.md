@@ -1,11 +1,14 @@
-<img src="WhatsApp Image 2025-12-26 at 11.56.25 PM.jpeg" width="200" style="border-radius:50%;" />
-## Md Bakul Mia
+<img src="profile.jpg" width="200" style="border-radius:50%;" />
+ Md Bakul Mia
+### 🌐 Portfolio Website
+➡️ Live: https://bakul620.github.io/
+
 
 📞 Phone: 01717083844  
 📧 Email: mdbakulmia620@gmail.com  
 💻 GitHub: https://github.com/Bakul620  
 🔗 LinkedIn: https://linkedin.com/in/md-bakul-mia-3157712ab/  
-🏆 Online Judges: Codeforces | AtCoder | CodeChef | LeetCode  
+🏆 Online Judges: https://codeforces.com/profile/ZeroBugHunter | https://atcoder.jp/users/mdbakul2005 | https://www.codechef.com/users/bakulce23015 | https://leetcode.com/u/MD_Bakul_MBSTU_20/  
 
 ---
 
