@@ -1,7 +1,8 @@
-<img src="profile.jpg" width="200" style="border-radius:50%;" />
- Md Bakul Mia
-### 🌐 Portfolio Website
-➡️ Live: https://bakul620.github.io/ 
+# Md Bakul Mia — Portfolio Website
+
+Live: https://bakul620.github.io/
+
+Simple, responsive personal portfolio showcasing skills, competitive programming background, projects, and education.
 
 ---
 
@@ -94,3 +95,48 @@ Bangladesh Computer Council & Dept. of CSE, MBSTU
 - Software Development  
 - Algorithm Design  
 - Probability & Statistics  
+
+---
+
+## ✅ Features
+
+- Clean, mobile-first layout
+- Highlighted competitive programming profiles and ratings
+- CV download button (PDF)
+- Fast load, no build step
+
+---
+
+## 🧰 Tech Stack
+
+- HTML5
+- CSS3
+- Vanilla JavaScript
+
+---
+
+## 📁 Project Structure
+
+```
+.
+├── index.html
+├── profile.jpg
+├── Md_Bakul_Mia_Resume1.pdf
+└── README.md
+```
+
+---
+
+## ▶️ Run Locally
+
+Open `index.html` in any browser.
+
+Optional (recommended): use VS Code Live Server extension.
+
+---
+
+## ✏️ Customize
+
+- Update text sections inside `index.html`
+- Replace `profile.jpg` with your photo
+- Replace `Md_Bakul_Mia_Resume1.pdf` with your CV file
